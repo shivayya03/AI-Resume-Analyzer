@@ -3,4 +3,4 @@ sentence-transformers
 scikit-learn
 pypdf
 torch
-skills_db
+
