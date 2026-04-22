@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-👉 https://your-app-link.streamlit.app  
+👉[Live Demo](https://ai-resume-analyzer-shivayya.streamlit.app/)
 
 ---
 
