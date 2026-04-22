@@ -1,0 +1,5 @@
+streamlit
+pypdf 
+sentence_transformers
+sklearn.metrics.pairwise
+skills_db
