@@ -1,5 +1,6 @@
 streamlit
-pypdf 
-sentence_transformers
-sklearn.metrics.pairwise
+sentence-transformers
+scikit-learn
+pypdf
+torch
 skills_db
