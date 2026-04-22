@@ -29,8 +29,8 @@
 <img src="screenshot/Home_page.png" width="700"/>
 
 ### 📊 Result Page
-<img src="screenshot/result1.png" width="700"/>
-<img src="screenshots/result2.png" width="700"/>
+<img src="screenshot/Screenshot 2026-04-22 171729.png" width="700"/>
+<img src="screenshot/Screenshot 2026-04-22 171755.png" width="700"/>
 
 ## 🧠 Overview
 
